@@ -14,7 +14,7 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 ## Educational
 
 | Channel | Description                                              |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [中田敦彦のYouTube大学 - NAKATA UNIVERSITY*](https://www.youtube.com/watch?v=PXtRaM8sZRc)  | A comedian that gives lectures on all kind of topics, from anime, to politics and life lessons |
 
 ## Music
@@ -26,6 +26,7 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | Channel | Description      |
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [Yuzuki Hagi](https://www.youtube.com/watch?v=C342-Uj5nQ0)  | Read aloud | 
+| [1010 Studio](https://www.youtube.com/watch?v=OSkQy4EvRnE)  | Animated short stories | 
 
 ## Travel
 | Channel | Description      |
