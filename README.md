@@ -8,7 +8,7 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 
 | Channel | Description   |
 | ------------------------------------------------------------------ | --------------------------------------------------- |
-| [PC-FREEDOM*](https://www.youtube.com/watch?v=hNwAhPsin0I/)        | Focused on Linux but it also covers technology in general|
+| [PC-FREEDOM](https://www.youtube.com/watch?v=hNwAhPsin0I/)        | Focused on Linux but it also covers technology in general|
 
 
 ## Educational
