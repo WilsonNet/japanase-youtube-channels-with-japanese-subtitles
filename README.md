@@ -20,4 +20,13 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [THE FIRST TAKE](https://www.youtube.com/watch?v=0mtHh0k6sVg)  | Big japanese musicians recording a performance of one of their songs in a single try | 
 
+## Literature
+| Channel | Description      |
+| ------------------------------------------------------------------ | -------------------------------------------------------- |
+| [Yuzuki Hagi](https://www.youtube.com/watch?v=C342-Uj5nQ0)  | Read aloud | 
+
+## Travel
+| Channel | Description      |
+| --------------------------------------------------------------- | -------------------------------------------------------- |
+| [I-CHAPTER FILM ](https://www.youtube.com/watch?v=6ySFvELmPHA)  | High quality travel documentaries | 
 
