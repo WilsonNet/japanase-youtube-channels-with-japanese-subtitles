@@ -2,6 +2,8 @@
 A list of Japanese Youtube channels with japanese subtitles. So you can easily mine Anki cards with a tool like [mpvacious](https://github.com/Ajatt-Tools/mpvacious).
 Not every video of these channels have japanese subtitles, for this reason, all the links will direct to a video that has. 
 
+*This list is intended for softsubs only*
+
 ## Technology
 
 | Channel | Description   |
