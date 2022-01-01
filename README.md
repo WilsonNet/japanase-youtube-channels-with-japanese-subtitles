@@ -21,6 +21,7 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | Channel | Description      |
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [THE FIRST TAKE](https://www.youtube.com/watch?v=0mtHh0k6sVg)  | Big japanese musicians recording a performance of one of their songs in a single try | 
+| [夏海ルイの音楽隊](https://www.youtube.com/watch?v=Mh_p3yMmt5k) | Instrument covers and DTM (Music made using regular personal computers) |
 
 ## Literature
 | Channel | Description      |
