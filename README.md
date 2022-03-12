@@ -33,6 +33,7 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | Channel | Description      |
 | --------------------------------------------------------------- | -------------------------------------------------------- |
 | [I-CHAPTER FILM ](https://www.youtube.com/watch?v=6ySFvELmPHA)  | High quality travel documentaries | 
+| [ちょっと一息 ch](https://www.youtube.com/watch?v=-6ALQf0ICpU) | Travel Vlogger |
 
 ### Author's note
 A lot of people get burnt out from Anki, that is easily avoidable if you focus on having fun with the process. I highly recommend reading [AJATT's guide to smoother SRSing](http://www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-1-the-srs-is-a-servant-not-a-master/).
