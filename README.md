@@ -16,6 +16,8 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | Channel | Description                                              |
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [中田敦彦のYouTube大学 - NAKATA UNIVERSITY*](https://www.youtube.com/watch?v=PXtRaM8sZRc)  | A comedian that gives lectures on all kind of topics, from anime, to politics and life lessons |
+| [ディスカバリーチャンネル](https://www.youtube.com/watch?v=xR3WQvxikqA)  | Discovery Channel, you can unlock more videos with a VPN |
+
 
 ## Music
 | Channel | Description      |
