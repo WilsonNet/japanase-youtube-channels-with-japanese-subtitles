@@ -30,7 +30,9 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [Yuzuki Hagi](https://www.youtube.com/watch?v=C342-Uj5nQ0)  | Read aloud | 
 | [1010 Studio](https://www.youtube.com/watch?v=OSkQy4EvRnE)  | Animated short stories | 
-| [文学YouTuberベル](https://www.youtube.com/watch?v=6Y98pbths-U) | Probably the biggest booktuber in Japan | 
+| [文学YouTuberベル](https://www.youtube.com/watch?v=6Y98pbths-U) | Probably the biggest booktuber in Japan |
+| [スカートで旅するCHIERU](https://www.youtube.com/watch?v=hedmHpk5wQk) | Travel anywhere with a skirt |
+
 
 
 ## Travel
