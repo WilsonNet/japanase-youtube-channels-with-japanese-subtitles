@@ -42,6 +42,11 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | [スカートで旅するCHIERU](https://www.youtube.com/watch?v=hedmHpk5wQk) | Travel anywhere with a skirt |
 | [Chika VietVlog ベトナム探検隊](https://www.youtube.com/watch?v=7HkiWBWdK_E) | Life in Vietnam / Thailand |
 
+## Lifestyle
+| Channel | Description      |
+| --------------------------------------------------------------- | -------------------------------------------------------- |
+| [inakamon](https://www.youtube.com/watch?v=CWOAPAx_XWE)  | A guy who buys an old house in the countryside and rennovates in a DIY way | 
+
 
 ### Author's note
 A lot of people get burnt out from Anki, that is easily avoidable if you focus on having fun with the process. I highly recommend reading [AJATT's guide to smoother SRSing](http://www.alljapaneseallthetime.com/blog/secrets-to-smoother-srsing-part-1-the-srs-is-a-servant-not-a-master/).
