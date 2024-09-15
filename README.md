@@ -1,5 +1,5 @@
 # Japanase Youtube Channels With Japanese Subtitles
-A list of Japanese Youtube channels with japanese subtitles. So you can easily mine Anki cards with a tool like [mpvacious](https://github.com/Ajatt-Tools/mpvacious).
+A list of Japanese Youtube channels with japanese subtitles. So you can easily mine Anki cards with a tool like [mpvacious](https://github.com/Ajatt-Tools/mpvacious) or [asbplayer](https://github.com/killergerbah/asbplayer).
 Not every video of these channels have japanese subtitles, for this reason, all the links will direct to a video that has. 
 
 *This list is intended for softsubs only*
@@ -41,6 +41,8 @@ Not every video of these channels have japanese subtitles, for this reason, all 
 | [脱サラ さいとう夫婦](https://www.youtube.com/watch?v=ymUhXb9-s9k) | Camping, outdoors, vanlife  |
 | [スカートで旅するCHIERU](https://www.youtube.com/watch?v=hedmHpk5wQk) | Travel anywhere with a skirt |
 | [Chika VietVlog ベトナム探検隊](https://www.youtube.com/watch?v=7HkiWBWdK_E) | Life in Vietnam / Thailand |
+| [しおねる](https://www.youtube.com/watch?v=BZeAtQtxLpY) | Train youtuber vloggin train trips |
+
 
 ## Lifestyle
 | Channel | Description      |
